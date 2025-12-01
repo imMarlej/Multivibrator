@@ -1,2 +1,2 @@
 # 2025-26Projekt
-# Multivibrátor
+Martin Lejsek
