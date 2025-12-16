@@ -32,9 +32,11 @@ Video kde vysvětluji zapojení na schématu jsem nahrál [zde](https://www.yout
 
 [1] Generátor citací. Online. © 2015–2025. Dostupné z: https://www.citace.com/. [cit. 2025-12-16].  
 [2] Github. Online. © 2025. Dostupné z: https://github.com/. [cit. 2025-12-16].  
-[3] Falstad. Online. © 2014. Dostupné z: https://www.falstad.com/circuit/. [cit. 2025-12-16].
+[3] Falstad. Online. © 2014. Dostupné z: https://www.falstad.com/circuit/. [cit. 2025-12-16].  
+[4] DigiKey Scheme It. Online. © 1995-2023. Dostupné z: https://www.digikey.com/en/schemeit. [cit. 2025-12-16].
 
 ## Literatura
 
 [1] GOOGLE. Gemini [model umělé inteligence]. Mountain View: Google, 2025. Dostupné z: https://gemini.google.com/. [cit. 2025-12-16].  
-[2] Klopný obvod. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/Klopn%C3%BD_obvod. [cit. 2025-12-16].
+[2] Klopný obvod. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/Klopn%C3%BD_obvod. [cit. 2025-12-16].  
+[3] Astable Multivibrator using BJT Explained. Online. 2019. Dostupné z: https://youtu.be/dQbrI_iQWig?si=QarzfZBZPJk84CN1. [cit. 2025-12-16].
