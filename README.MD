@@ -24,4 +24,4 @@ Klopný obvod je takový obvod který se překlápí mezi dvěma stavy napříkl
 
 ## Vysvětlení zapojení
 
-Video kde vysvětluji funkci na schématu jsem nahrál ![zde](https://youtu.be/gVCrRNC8xM4)
+Video kde vysvětluji funkci na schématu jsem nahrál ![zde](https://www.youtube.com/watch?v=gVCrRNC8xM4)
