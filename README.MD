@@ -18,3 +18,5 @@ Klopný obvod je takový obvod který se překlápí mezi dvěma stavy napříkl
 8. To způsobí záporné napětí na bázi tranzistoru Q1. Tranzistor Q1 je tedy uzavřen.
 9. Na výstupu Q máme tedy napětí VCC a na výstupu ¬Q, který je spojen se zemí je 0V.
 10. Kondenzátor C2 se tentokrát začne vybíjet a naopak C2 nabíjet a proces se opakuje.
+
+![](img/schema.img)
