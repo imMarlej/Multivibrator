@@ -27,3 +27,14 @@ Klopný obvod je takový obvod který se překlápí mezi dvěma stavy napříkl
 Mým cílem bylo zapojit obvod, který by fungoval jako blikač, aby změny stavu byly vidět.
 Jako správný kutil jsem si nejdříve obvod na simuloval v simulátoru, osobně používám pro tyto účely simulátor Falstad. Simulátor jsem využil hlavně pro zjištění hodnot součástek, které budu potřebovat, na to aby obvod měl nějakou rozumnou periodu. Výsledek vypadal [takto](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BOJyWoSATADgKzQQMyQEAsA7ARjjmZCSDgQw5AwKYC0YYAUAEogAbCVYZIWBiXpiJrViOZyo0HDwDuQnIMziQZMTtk8ATpu0yzISkoxieYQRkvXnWaSAAmbAGYBDAK4ANgAuHIFsHuBQ0TCQvMF6dCAkDpYp2qwQMFrYWGLCWG4EZMLKgoI0WghktNyQgmD0YHCePgEh6q70Fdoicp09yZSWOGBOkAMKFoMWEwlYLekgbhJLmSAceASO1Y04JBVghDgbMMWUUvmUtARH4C1efkHB9o7LJBIuK1ZumK1PITCESiSlivFM3y+H0M0VsEw0kN+3z6UB4YnQkIMZF+LnosTg5GS0AIpFsYAWggutAQJ3xWXAaMg6EGLn0rFxynghIw0AwCHKJRwWBJZFGYCYdOi4L0OKxv1m93gnWx0l031mJj0BlZBgVzSVGjZMJVMPh71Ww2+o3GnStYz0OCc1tRhu1BgW8lSZpNrKSax4AHMHU77aKndgYsrHQx7YNnRMAPYgdDx5JM9A8vmCfQIByUI5gWnQZoYPF-dAEHhAA).  
 Video kde vysvětluji zapojení na schématu jsem nahrál [zde](https://www.youtube.com/watch?v=gVCrRNC8xM4)
+
+## Použité nástroje
+
+[1] Generátor citací. Online. © 2015–2025. Dostupné z: https://www.citace.com/. [cit. 2025-12-16].  
+[2] Github. Online. © 2025. Dostupné z: https://github.com/. [cit. 2025-12-16].  
+[3] Falstad. Online. © 2014. Dostupné z: https://www.falstad.com/circuit/. [cit. 2025-12-16].
+
+## Literatura
+
+[1] GOOGLE. Gemini [model umělé inteligence]. Mountain View: Google, 2025. Dostupné z: https://gemini.google.com/. [cit. 2025-12-16].  
+[2] Klopný obvod. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/Klopn%C3%BD_obvod. [cit. 2025-12-16].
