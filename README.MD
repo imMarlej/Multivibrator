@@ -1,6 +1,5 @@
 
 # Martin Lejsek
-# 2025-26 Projekt
 # Multivibrátor
 
 Multivibrátor je elektronický obvod, který slouží ke generování elektrických pulzů, je to vastně astabilní klopný obvod.
