@@ -32,7 +32,11 @@ Pro realizaci jsem chtěl použít nepájivé pole, objednal jsem si tedy z Lás
 
 Samotné zapojení nebylo nijak náročné, respektive bylo úměrné jednoduchosti obvodu. Narazil jsem pokud vím snad pouze na dva problémy. První byl, že výstup ze zdroje byl na pinech a součástí sady nebyl žádný vodič uzpůsobený pro připojení na pin. Musel jsem si proto poradit jinak a z výše zmíněného plošného obvodu z nouzového svítidla jsem si vypůjčil drátky, které sloužili pro připojení baterie a měly tak na sobě konektor, který šel použít. Aby jsem však druhý konec mohl připojit do nepájivého pole, lehce punkově jsem uštípl elektrody LED diody a ty jsem napájel na konce drátů a omotal elektrikářskou páskou pro absolutní bezpečnost. Druhý problém, který se vyskytl, byl spíše mým malým nedopatřením. Špatně jsem totiž určil anodu LED diod a zapojil je obráceně, po 2 minutách bezmocného koukání na obvod jsem je však zkusil otočit a zapojení bylo bez problémů.
 
-[<img src="https://img.youtube.com/vi/QOBCSzrG9zs/maxresdefault.jpg" width="250" height="420"
+## Výsledné zapojení
+
+<img src="img/img1.jpg" width="350"/>
+
+[<img src="https://img.youtube.com/vi/QOBCSzrG9zs/hqdefault.jpg" width="250"
 />](https://www.youtube.com/embed/QOBCSzrG9zs)
 
 ## Použité nástroje
