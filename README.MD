@@ -36,6 +36,7 @@ Samotné zapojení nebylo nijak náročné, respektive bylo úměrné jednoducho
 
 <img src="img/img1.jpg" width="400"/>  
 <img src="img/img2.jpg" width="400"/>  
+
 [<img src="https://img.youtube.com/vi/QOBCSzrG9zs/hqdefault.jpg" width="400" height="220"
 />](https://www.youtube.com/embed/QOBCSzrG9zs)
 
