@@ -43,4 +43,5 @@ Samotné zapojení nebylo nijak náročné, respektive bylo úměrné jednoducho
 
 [1] GOOGLE. Gemini [model umělé inteligence]. Mountain View: Google, 2025. Dostupné z: https://gemini.google.com/. [cit. 2025-12-16].  
 [2] Klopný obvod. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/Klopn%C3%BD_obvod. [cit. 2025-12-16].  
-[3] Astable Multivibrator using BJT Explained. Online. 2019. Dostupné z: https://youtu.be/dQbrI_iQWig?si=QarzfZBZPJk84CN1. [cit. 2025-12-16].
+[3] Astable Multivibrator using BJT Explained. Online. 2019. Dostupné z: https://youtu.be/dQbrI_iQWig?si=QarzfZBZPJk84CN1. [cit. 2025-12-16].  
+[4] Markdown Guide. Online. © 2025. Dostupné z: https://www.markdownguide.org/. [cit. 2025-12-17].
